@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Eventra, a platform for wedding & event services in Bihar.
+
 First, run the development server:
 
 ```bash
